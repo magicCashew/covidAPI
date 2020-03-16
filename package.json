@@ -1,6 +1,9 @@
 {
   "name": "COVID-API",
   "version": "1.0.0",
+  "engines": {
+    "node": "12.14.x"
+  },  
   "description": "A simple Node API for getting coronavirus cases from scraped information.",
   "main": "server.js",
   "scripts": {
